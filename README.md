@@ -14,5 +14,4 @@ A simple **Product Management System** built with **HTML, CSS, and JavaScript** 
 - CSS3  
 - JavaScript  
 
-## 📷 Preview
-![Screenshot](image/screenShot.png)
+
